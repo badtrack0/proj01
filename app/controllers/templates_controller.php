@@ -3,6 +3,7 @@
 class TemplatesController extends AppController {
     var $layout = "template"; // load file chứa nội dung layout : views/layouts/template.ctp
     var $helpers = array("Html","Common"); // Thành phần Helper Common được gọi để tạo menu,header,footer trong view
+	var $name = "Templates";
 	//var $name = "Users";
     
     function  index(){
