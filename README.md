@@ -1,4 +1,0 @@
-proj01
-======
-
-outsourcing
