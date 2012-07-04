@@ -2,7 +2,7 @@
 class CatalogsController extends AppController{
     //var $layout = "template";
     
-	var $name = 'Catalogs'
+	var $name = 'Catalogs';
     var $helpers = array("Html","Session");
     var $components = array("Session");
     
